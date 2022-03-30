@@ -8,24 +8,12 @@ author = "Hugo Authors"
 
 ## Learning
 
-* Kubernetes
-* Docker
-* Terraform
-* Terragrunt
-* Atlantis
-* Python
-* Shell Script
-* Powershell
-* Google AppScripts
-* Cloud platforms OCI, AWS, Azure
-* CI/CD (Azure DevOps, GitHub Actions, Gitlab)
-* Ansible
-* Puppet
-* Vault
-* Packer
-* Observability (ELK Stack,Graylog,Grafana,Zabbix, Prometheus)
-* QA/SAST (SonarQube)
-* DAST (Nessus, Burp Suite, OWASP ZAP)
-
+* Container Service: (Docker, Kubernetes, Nomad)
+* IaC: (Ansible, Terraform, Terragrunt, Atlantis, Paker)
+* Languages: (Shellscript, Powershell, Python, Php, .Net, Google AppScripts)
+* Cloud platforms: (OCI, AWS, Azure)
+* CI/CD: (Azure DevOps, GitHub Actions, Gitlab CI/CD)
+* Dast/Sast/Sec: (SonarQube, Nessus, Burp Suite, OWASP ZAP, Vault)
+* Observability (ELK Stack, Graylog, Grafana, Zabbix, Prometheus)
 
 
